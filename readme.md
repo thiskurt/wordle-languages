@@ -7,6 +7,7 @@ An overview of wordle in different languages
 | CYM  | Gairglo    | https://www.hiriaith.cymru/gairglo             |                             |
 | DE   | Wordle     | https://wordle.uber.space/                     |                             |
 | EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings           |
+| EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant         |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                             |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                             |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                             |

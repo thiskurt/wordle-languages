@@ -17,6 +17,7 @@ An overview of wordle in different languages
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                   |
 | FR   | Sutom      | https://sutom.nocle.fr/                        | 7 Letters                   |
 | FI   | Sanuli     | https://sanuli.fi/                             |                             |
+| GD   | Facle      | https://facle.netlify.app/                     | Scottish Gaelic             |
 | HE   | מדויקת    | https://meduyeket.net/                         |                             |
 | IS   | Orðill     | https://t-veor.github.io/ordill/               |                             |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                             |

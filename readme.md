@@ -4,8 +4,12 @@ An overview of wordle in different languages
 
 | Lang | Name       | Link                                           | Notes                       |
 |------|------------|------------------------------------------------|-----------------------------|
+| CAT  | Wordle     | https://gelozp.com/games/wordle/               |                             |
 | CYM  | Gairglo    | https://www.hiriaith.cymru/gairglo             |                             |
 | DE   | Wordle     | https://wordle.uber.space/                     |                             |
+| DE   | Wordle     | https://wordle.at/                             | Austrian                    |
+| DK   | Wørdle     | https://wørdle.dk/                             |                             |
+| HE   | מדויקת    | https://meduyeket.net/                         |                             |
 | EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings           |
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant         |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                             |
@@ -13,6 +17,7 @@ An overview of wordle in different languages
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                   |
 | FR   | Sutom      | https://sutom.nocle.fr/                        | 7 Letters                   |
 | FI   | Sanuli     | https://sanuli.fi/                             |                             |
+| IS   | Orðill     | https://t-veor.github.io/ordill/               |                             |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                             |
 | IT   | Parole     | https://pietroppeter.github.io/wordle-it/      |                             |
 | NL   | Woordle    | https://woordle.nl/                            |                             |

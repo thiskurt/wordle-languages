@@ -10,8 +10,8 @@ An overview of wordle in different languages
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant         |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                             |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                             |
-| FR   | Moket      | https://jesuislibre.net/moket/                 |                             |
-| FR   | Sutom      | https://sutom.nocle.fr/                        |                             |
+| FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                   |
+| FR   | Sutom      | https://sutom.nocle.fr/                        | 7 Letters                   |
 | FI   | Sanuli     | https://sanuli.fi/                             |                             |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                             |
 | IT   | Parole     | https://pietroppeter.github.io/wordle-it/      |                             |

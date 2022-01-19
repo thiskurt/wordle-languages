@@ -30,3 +30,5 @@ An overview of wordle in different languages
 | PT   | Termo      | https://term.ooo/                              |                             |
 | RU   | Wordle     | https://wordle.belousov.one/                   |                             |
 | SE   | Ordel      | https://ordel.se/                              |                             |
+| YID  | ווערטל    | https://greenwichmeanti.me/wordle/             |                             | 
+| YID  | װערטל     | https://www.jiconway.com/vertl/                |                             |

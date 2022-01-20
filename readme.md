@@ -15,7 +15,7 @@ An overview of wordle in different languages
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                             |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                             |
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                   |
-| FR   | Sutom      | https://sutom.nocle.fr/                        | 7 Letters                   |
+| FR   | Sutom      | https://sutom.nocle.fr/                        | 8 Letters                   |
 | FR   | Le Mot     | https://wordle.louan.me/                       |                             |
 | FI   | Sanuli     | https://sanuli.fi/                             |                             |
 | GD   | Facle      | https://facle.netlify.app/                     | Scottish Gaelic             |

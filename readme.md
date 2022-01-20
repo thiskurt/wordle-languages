@@ -27,6 +27,8 @@ An overview of wordle in different languages
 | NL   | Woordle6   | https://woordle.nl/woordle6/                   | 6 Letters                   |
 | NO   | Ordle      | https://evancharlton.github.io/ordle/          | Bokmål and Nynorsk variants |
 | PL   | Wordle     | https://sudoku.pl/wordle/                      |                             |
+| PL   | Literalnie | https://literalnie.fun/                        |                             |
+| PL   | Wyrazik    | https://wyrazik.pl/                            |                             |
 | PT   | Termo      | https://term.ooo/                              |                             |
 | RU   | Wordle     | https://wordle.belousov.one/                   |                             |
 | SE   | Ordel      | https://ordel.se/                              |                             |

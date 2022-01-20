@@ -30,6 +30,7 @@ An overview of wordle in different languages
 | PL   | Literalnie | https://literalnie.fun/                        |                             |
 | PL   | Wyrazik    | https://wyrazik.pl/                            |                             |
 | PT   | Termo      | https://term.ooo/                              |                             |
+| PT   | Letreco    | https://www.gabtoschi.com/letreco/             |                             |
 | RU   | Wordle     | https://wordle.belousov.one/                   |                             |
 | SE   | Ordel      | https://ordel.se/                              |                             |
 | YID  | ווערטל    | https://greenwichmeanti.me/wordle/             |                             | 

@@ -13,6 +13,7 @@ An overview of wordle in different languages
 | EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings             |
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant           |
 | EN   | Lewdle     | https://lewdlegame.com                         | Lewd words variant            |
+| EN   | NSFWordle  | https://www.nsfwordle.com/                     | NSFW variant                  |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                               |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                               |
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                     |
@@ -22,6 +23,7 @@ An overview of wordle in different languages
 | FI   | Sanuli     | https://sanuli.fi/                             |                               |
 | GD   | Facle      | https://facle.netlify.app/                     | Scottish Gaelic               |
 | HE   | מדויקת    | https://meduyeket.net/                         |                               |
+| JPN  | Wordle Ja  | https://aseruneko.github.io/WORDLEja/          |                               |
 | IS   | Orðill     | https://t-veor.github.io/ordill/               |                               |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                               |
 | IT   | Parole     | https://pietroppeter.github.io/wordle-it/      |                               |

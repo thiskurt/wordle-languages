@@ -12,6 +12,7 @@ An overview of wordle in different languages
 | DK   | Wørdle     | https://wørdle.dk/                             |                               |
 | EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings             |
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant           |
+| EN   | Lewdle     | https://lewdlegame.com                         | Lewd words variant            |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                               |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                               |
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                     |

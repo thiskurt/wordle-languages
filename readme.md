@@ -2,6 +2,8 @@
 
 An overview of wordle in different languages
 
+A more complete list can be found here: https://rwmpelstilzchen.gitlab.io/wordles/
+
 | Lang | Name       | Link                                           | Notes                         |
 |------|------------|------------------------------------------------|-------------------------------|
 | BE   | Ўордлі     | https://ololophilolo.github.io/wordle-by/      | Academic orthography          |   

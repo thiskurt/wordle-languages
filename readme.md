@@ -14,6 +14,7 @@ An overview of wordle in different languages
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant           |
 | EN   | Lewdle     | https://lewdlegame.com                         | Lewd words variant            |
 | EN   | NSFWordle  | https://www.nsfwordle.com/                     | NSFW variant                  |
+| EO   | Wordleo    | https://esperanto.cat/wordleo/                 | Esperanto (conlang) variant   |
 | ES   | Wordle ES  | https://wordle.danielfrg.com/                  |                               |
 | FR   | LeMOT      | https://www.solitaire-play.com/lemot/          |                               |
 | FR   | Moket      | https://jesuislibre.net/moket/                 | 7 Letters                     |
@@ -39,3 +40,5 @@ An overview of wordle in different languages
 | SE   | Ordel      | https://ordel.se/                              |                               |
 | YID  | ווערטל    | https://greenwichmeanti.me/wordle/             |                               | 
 | YID  | װערטל     | https://www.jiconway.com/vertl/                |                               |
+| N/A  | Waxa Nimi  | http://antetokipona.infinityfreeapp.com/utala-nimi/nimile.html?i=1%E2%80%8B | Toki Pona Conlang |
+| N/A  | Primel     | https://converged.yt/primel/                   | Prime numbers                 |

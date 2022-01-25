@@ -7,7 +7,7 @@ A more complete list by Júda (rwmpelstilzchen) can be found here: https://rwmpe
 | Lang | Name       | Link                                           | Notes                         |
 |------|------------|------------------------------------------------|-------------------------------|
 | BE   | Ўордлі     | https://ololophilolo.github.io/wordle-by/      | Academic orthography          |   
-| BRE  | Gerdel     | https://szozat.miklosdanka.com/                |                               |
+| BRE  | Gerdle     | https://szozat.miklosdanka.com/                |                               |
 | CAT  | Wordle     | https://gelozp.com/games/wordle/               |                               |
 | CYM  | Gairglo    | https://www.hiriaith.cymru/gairglo             |                               |
 | DE   | Wordle     | https://wordle.uber.space/                     |                               |

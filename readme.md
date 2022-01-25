@@ -26,6 +26,8 @@ A more complete list by Júda (rwmpelstilzchen) can be found here: https://rwmpe
 | FI   | Sanuli     | https://sanuli.fi/                             |                               |
 | GD   | Facle      | https://facle.netlify.app/                     | Scottish Gaelic               |
 | HE   | מדויקת    | https://meduyeket.net/                         |                               |
+| HU   | Szó reggelt! | https://jealousmarkup.xyz/szofejto/          | digraphs and trigraph as individual characters |
+| HU   | Szózat     | https://szozat.miklosdanka.com/                | digraphs/trigraphs dedicated buttons |
 | JPN  | Wordle Ja  | https://aseruneko.github.io/WORDLEja/          |                               |
 | IS   | Orðill     | https://t-veor.github.io/ordill/               |                               |
 | IT   | Verba      | https://sebastianomorando.github.io/wordle-it/ |                               |

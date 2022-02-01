@@ -13,7 +13,8 @@ A more complete list by Júda (rwmpelstilzchen) can be found here: https://rwmpe
 | DE   | Wordle     | https://wordle.uber.space/                     |                               |
 | DE   | Wordle     | https://wordle.at/                             | Austrian                      |
 | DK   | Wørdle     | https://wørdle.dk/                             |                               |
-| EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings             |
+| EN   | Wordle     | https://www.powerlanguage.co.uk/wordle/        | Uses US spellings / Sold to NYT |
+| EN   | Wordle     | http://alexdaily.nl/wordle/                    | Wordle Clone created after sale of Wordle to NYT |
 | EN   | Absurdle   | https://qntm.org/files/wordle/index.html       | Adversarial variant           |
 | EN   | Lewdle     | https://lewdlegame.com                         | Lewd words variant            |
 | EN   | NSFWordle  | https://www.nsfwordle.com/                     | NSFW variant                  |

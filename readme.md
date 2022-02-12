@@ -43,6 +43,7 @@ A more complete list by Júda (rwmpelstilzchen) can be found here: https://rwmpe
 | PT   | Termo      | https://term.ooo/                              |                               |
 | PT   | Letreco    | https://www.gabtoschi.com/letreco/             |                               |
 | RU   | Wordle     | https://wordle.belousov.one/                   |                               |
+| RU   | Rudle      | https://rudle.vercel.app/                      |                               |
 | SE   | Ordel      | https://ordel.se/                              |                               |
 | YID  | ווערטל    | https://greenwichmeanti.me/wordle/             |                               | 
 | YID  | װערטל     | https://www.jiconway.com/vertl/                |                               |
